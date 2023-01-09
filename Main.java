@@ -1,7 +1,7 @@
 
 import java.util.Scanner;
 
-public class Lab3 {
+public class Main {
 	// It is convenient for each class to call.
 	static int row;
 	static int col;
