@@ -1,13 +1,4 @@
 
-/*File name: Lab3.java
-Author: Yun Wang, ID# 041069121
-Course: CST8132 – OOP, Lab Section: 302
-Lab: 03
-Date: 2022-10-09
-Professor: Gustavo Adami
-Purpose: This class includes methods to initialize 2D array, print chess board
-         check piece moves and move pieces.
-*/
 import java.util.Scanner;
 
 public class Lab3 {
