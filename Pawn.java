@@ -1,11 +1,3 @@
-/*File name: Pawn.java
-Author: Yun Wang, ID# 041069121
-Course: CST8132 – OOP, Lab Section: 302
-Lab: 03
-Date: 2022-10-09
-Professor: Gustavo Adami
-Purpose: This class includes methods to get valid moves for pawns, print pawn symbol and names.
-*/
 public class Pawn extends Piece {
 
 	Pawn(boolean chessColor) {
